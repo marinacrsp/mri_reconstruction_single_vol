@@ -1,0 +1,19 @@
+{"time":"2024-10-02T11:03:55.317339376+02:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-02T11:03:55.317348198+02:00","level":"INFO","msg":"created symlink","path":"/scratch_net/ken/mcrespo/proj_marina/single_vol/wandb/run-20241002_110355-tg1zmxor/logs/debug-core.log"}
+{"time":"2024-10-02T11:03:55.317400267+02:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-02T11:03:55.318464429+02:00","level":"INFO","msg":"created new stream","id":"tg1zmxor"}
+{"time":"2024-10-02T11:03:55.318473492+02:00","level":"INFO","msg":"stream: started","id":"tg1zmxor"}
+{"time":"2024-10-02T11:03:55.318485675+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"tg1zmxor"}}
+{"time":"2024-10-02T11:03:55.318500903+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"tg1zmxor"}}
+{"time":"2024-10-02T11:03:55.318505914+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"tg1zmxor"}}
+{"time":"2024-10-02T11:03:55.590324087+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-02T11:03:55.59088212+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-02T11:03:55.739626144+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-02T11:03:55.740154006+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-02T11:03:56.702624595+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-02T11:03:57.90298262+02:00","level":"INFO","msg":"stream: closing","id":"tg1zmxor"}
+{"time":"2024-10-02T11:03:57.90303247+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"tg1zmxor"}}
+{"time":"2024-10-02T11:03:57.903090964+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"tg1zmxor"}}
+{"time":"2024-10-02T11:03:57.903108648+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"tg1zmxor"}}
+{"time":"2024-10-02T11:03:57.903209751+02:00","level":"INFO","msg":"stream: closed","id":"tg1zmxor"}
+{"time":"2024-10-02T11:04:00.740164964+02:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

@@ -1,0 +1,43 @@
+{
+  "os":  "Linux-4.19.0-27-amd64-x86_64-with-glibc2.28",
+  "python":  "3.12.5",
+  "startedAt":  "2024-10-02T09:03:42.711718Z",
+  "program":  "/scratch_net/ken/mcrespo/proj_marina/single_vol/mri_notebook.ipynb",
+  "git":  {
+    "remote":  "https://github.com/marinacrsp/cvl_project.git",
+    "commit":  "eabca83580d2f5ff61e6a2a94fb4f0d5427d726a"
+  },
+  "email":  "marina.crespo@alumnos.uc3m.es",
+  "root":  "/scratch_net/ken/mcrespo/proj_marina/single_vol",
+  "host":  "ken",
+  "username":  "mcrespo",
+  "executable":  "/scratch_net/ken/mcrespo/conda_envs/pytcu11/bin/python",
+  "codePathLocal":  "mri_notebook.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "gpu":  "[Quadro P400]",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "474449182720",
+      "used":  "193254653952"
+    }
+  },
+  "memory":  {
+    "total":  "33645838336"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "Quadro P400",
+      "memoryTotal":  "2097086464"
+    }
+  ],
+  "slurm":  {
+    "conf":  "/home/sladmcvl/slurm/slurm.conf"
+  },
+  "cudaVersion":  "10.1"
+}
